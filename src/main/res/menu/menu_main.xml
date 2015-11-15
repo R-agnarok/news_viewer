@@ -1,0 +1,70 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+    <item
+        android:id="@+id/category_politics"
+        android:orderInCategory="100"
+        android:title="@string/category_politics"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/category_world"
+        android:orderInCategory="100"
+        android:title="@string/category_world"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/category_economy"
+        android:orderInCategory="100"
+        android:title="@string/category_economy"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/category_society"
+        android:orderInCategory="100"
+        android:title="@string/category_society"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/category_education"
+        android:orderInCategory="100"
+        android:title="@string/category_education"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/category_moscow"
+        android:orderInCategory="100"
+        android:title="@string/category_moscow"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/category_sport"
+        android:orderInCategory="100"
+        android:title="@string/category_sport"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/category_incidents"
+        android:orderInCategory="100"
+        android:title="@string/category_incidents"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/category_defense_safety"
+        android:orderInCategory="100"
+        android:title="@string/category_defense_safety"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/category_science"
+        android:orderInCategory="100"
+        android:title="@string/category_science"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/category_eco"
+        android:orderInCategory="100"
+        android:title="@string/category_eco"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/category_tourism"
+        android:orderInCategory="100"
+        android:title="@string/category_tourism"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/category_culture"
+        android:orderInCategory="100"
+        android:title="@string/category_culture"
+        app:showAsAction="never" />
+</menu>

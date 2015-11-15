@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">News Viewer</string>
+
+    <string name="category_politics">Политика</string>
+    <string name="category_world">В мире</string>
+    <string name="category_economy">Экономика</string>
+    <string name="category_society">Общество</string>
+    <string name="category_education">Образование</string>
+    <string name="category_moscow">Москва</string>
+    <string name="category_sport">Спорт</string>
+    <string name="category_incidents">Происшествия</string>
+    <string name="category_defense_safety">Оборона и безопасность</string>
+    <string name="category_science">Наука и технологии</string>
+    <string name="category_eco">Экология</string>
+    <string name="category_tourism">Туризм</string>
+    <string name="category_culture">Культура</string>
+
+    <string name="url_politics">http://ria.ru/export/rss2/politics/index.xml</string>
+    <string name="url_world">http://ria.ru/export/rss2/world/index.xml</string>
+    <string name="url_economy">http://ria.ru/export/rss2/economy/index.xml</string>
+    <string name="url_society">http://ria.ru/export/rss2/society/index.xml</string>
+    <string name="url_education">http://ria.ru/export/rss2/education/index.xml</string>
+    <string name="url_moscow">http://ria.ru/export/rss2/moscow/index.xml</string>
+    <string name="url_sport">http://sport.ria.ru/export/rss2/sport/index.xml</string>
+    <string name="url_incidents">http://ria.ru/export/rss2/incidents/index.xml</string>
+    <string name="url_defense_safety">http://ria.ru/export/rss2/defense_safety/index.xml</string>
+    <string name="url_science">http://ria.ru/export/rss2/science/index.xml</string>
+    <string name="url_eco">http://eco.ria.ru/export/rss2/eco/index.xml</string>
+    <string name="url_tourism">http://ria.ru/export/rss2/tourism/index.xml</string>
+    <string name="url_culture">http://ria.ru/export/rss2/culture/index.xml</string>
+
+    <string name="title_activity_news">Новости</string>
+
+    <string name="news_date_caption">Дата новости:</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
